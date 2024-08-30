@@ -1,7 +1,7 @@
 # <p align = "center"> 🛩️ The New Plane (TNP) v2.0 🛩️ </p>
 
-<p align = "center"> The New Plane (TNP) is a tool for Scan and DoS Attack of Website, this tool was built in Python language, it have two options of attack: --attackhttp and --attackhttps, HTTP attack floods the website with GET request and HTTPS floods with randomics requests. Your tool have the option for scan too, that informs links, links in /robot.txt, ports open and inputs of a website. 
-**OBS: it's only for educational purpose.** </p>
+<p align = "center"> The New Plane (TNP) is a tool for Scan and DoS Attack of Website, this tool was built in Python language, it have two options of attack: --attackhttp and --attackhttps, HTTP attack floods the website with GET request and HTTPS floods with randomics requests. Your tool have the option for scan too, that informs links, links in /robot.txt, ports open and inputs of a website. </p>
+**OBS: it's only for educational purpose.**
 
 <br/> 
 
