@@ -7,7 +7,7 @@
 <br/> 
 
 # Tool Picture 📸 
-![Help TNPv2](https://github.com/user-attachments/assets/835704d1-9c63-4e25-857c-ff00ff5ed8d4)
+![image](https://github.com/user-attachments/assets/fccc79d2-84d7-4637-ac64-30dcee3aa1c3)
 <br/>
 
 # Install 
