@@ -12,7 +12,7 @@
 
 # Install 
 ```
-git clone https:/github.com/Dragonit3/The-New-Plane.git
+https://github.com/Dragonit3/The-New-Plane_v2.git
 ```
 <br/>
 
